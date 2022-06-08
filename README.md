@@ -25,3 +25,12 @@ How to create a VM
 
   ![image](https://user-images.githubusercontent.com/105960409/172731654-10083378-75ed-403e-ba31-8a958dbc1f3a.png)
 
+**Example connecting to a VM via RDP**
+
+  1) You click on RDP as a way to connect, and this file will download
+
+  ![image](https://user-images.githubusercontent.com/105960409/172732119-40414cef-4c25-46ac-afad-292d26b601eb.png)
+
+  2) A login window will appear after running the downloaded file, after login the VM will start:
+
+  ![image](https://user-images.githubusercontent.com/105960409/172732200-8ec34459-2ccc-4099-9ce3-41bb1ff924af.png)
